@@ -1,0 +1,31 @@
+VPC - virtual private cloud
+Netwrok set up  - 10.0.0.0/16
+
+Subnets
+private and public
+
+Availability Zone - Data centers in cloud
+
+IGW and Nat gateway - route tables
+
+VPC endpoint
+Interface and Gateway
+
+vpc to another VPC
+10.80.0.0/16  143.20.6.7/16
+Peering - no overlapping IP ranges
+
+VPN - on premise to VPC (over internet) secure tunnel IPSEC Protocol
+AWS Direct Connect - private set up..
+Many VPC- On premises - Transit Gateway 
+
+compute - EC2
+Storage - S3
+Databses - RDS
+Route 53 - DNS
+Load balancer - ALB , NLB
+
+Monitoring 
+Cloudwatch - metrcis
+Cloudtrail - audit
+
